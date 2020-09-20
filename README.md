@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://mermaidsdream.github.io/rsschool-cv/cv
