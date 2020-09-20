@@ -1,0 +1,27 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body {
+  background-color: #f0f0f0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: cover;
+}
+p {
+	text-align: left;
+}
+h4{
+	text-align: left;
+}
+h5 {
+	text-align: center;
+}
+ul {
+	text-align: left;
+}
+
+footer p {
+	color: black;
+}
+
