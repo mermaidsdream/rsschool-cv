@@ -2,7 +2,7 @@
 
 **Junior Front End Developer**
 
-## CONTACT INFO
+## CONTACT INFO:
 
 1. **E-mail: vvasylyna@yahoo.com**
 1. **Skype:  vvasylyna**
