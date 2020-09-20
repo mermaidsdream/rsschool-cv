@@ -1,0 +1,43 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body {
+  background-color: #f0f0f0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: cover;
+}
+p {
+	text-align: left;
+}
+h4{
+	text-align: left;
+}
+h5 {
+	text-align: center;
+}
+ul {
+	text-align: left;
+}
+footer {
+	width: 100%;
+	height: auto;
+	background: none;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 25px;   
+}
+
+footer p {
+	color: black;
+}
+.social img {
+	margin-left: -10px;
+	margin-bottom: -20px;
+}
+.social img:hover{
+     background:  #ffcccc; 
+     border-radius: 50%;
+
+}
