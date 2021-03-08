@@ -1,27 +1,161 @@
 *{
 	margin: 0px;
 	padding: 0px;
+    box-sizing: border-box;
 }
-body {
-  background-color: #f0f0f0;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: cover;
+
+body { 
+   background-color: #fefefe;
+   position: absolute;
+   font-family: 'Raleway', sans-serif;
 }
-p {
-	text-align: left;
+
+.box-container{
+  margin: auto;
+  padding: auto;
+  display: block;
 }
-h4{
-	text-align: left;
+
+.photo{
+    float: left;
+    border-radius: 100%;
 }
-h5 {
+
+.section-title{
+	display: block;
+	margin-top: 5%;
+	margin-right: 15%;
+	
+	font-weight: bold;
 	text-align: center;
-}
-ul {
-	text-align: left;
+	color: #b1d4d4;
 }
 
-footer p {
-	color: black;
+.section-title h2{
+	color: #483a3c;
 }
 
+.bio{
+	display: block;
+	margin-left: 400px;
+	text-decoration: none;
+}
+
+.bio ul{
+    list-style: none;
+}
+
+.bio h2{
+	color: #483a3c;
+	margin-left: 400px;
+}
+
+.bio h3{
+    color: #b1d4d4;
+    margin-left: 400px;
+}
+
+.bio h4{
+	color: #a5a0a0;
+	margin-left: 400px;
+	text-decoration: none;
+}
+
+.bio a{
+	color: #a5a0a0;
+	text-decoration: none;
+}
+
+.section-summary{
+	margin-left: 400px;
+	margin-right: 400px;
+}
+
+.section-skills{
+	margin-left: 400px;
+    margin-right: 400px;
+}
+
+ul skills{
+    display: inline-block;
+	margin-left: 400px;
+    margin-right: 400px;
+}
+
+.section-experience{
+	margin-left: 400px;
+    margin-right: 400px;
+}
+
+.section-experience h3{
+	color: #b1d4d4;  
+}
+
+.section-education{
+	margin-left: 400px;
+    margin-right: 400px;
+}
+
+.section-code{
+	margin-left: 400px;
+    margin-right: 400px;
+}
+
+.section-code p{
+	background-color: #b1d4d4;
+	font-weight: bold;
+	color: #483a3c;
+}
+
+.section-english{
+	margin-left: 400px;
+    margin-right: 400px;
+}
+
+.section-english h4{
+	font-style: italic;
+	color: #b1d4d4;
+}
+
+footer{ 
+    margin-top: 0px;
+    padding: 0px;
+    background: none;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+footer h5{
+	font-style: bold;
+	color: #483a3c;
+}
+
+footer h6{	
+	font-style: bold;
+	color: #483a3c;
+}
+
+footer a{
+	text-decoration: none;
+	color: #483a3c;
+}
+
+.rsschool-logo{
+	width: 30%;
+	height: auto;
+	margin: 0 0 0 0;
+	padding: 50px 100px;
+	display: inline-block;
+}
+
+.github-logo{
+	margin: 0 0 0 0;
+	padding: 50px 130px;
+	display: inline-block;
+}
+
+.year-now{
+	margin: 0 0 0 0;
+	padding: 100px 100px;
+	display: inline-block;
+}
