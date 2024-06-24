@@ -20,7 +20,8 @@ JavaScript, HTML5, CSS3, Git, GitHub, Figma, React
 
 ## CODE EXAMPLES
 
-`function solution(number) {
+```
+function solution(number) {
   let count = 0;
   
   for (let i = 1; i < number; i++) {
@@ -30,7 +31,9 @@ JavaScript, HTML5, CSS3, Git, GitHub, Figma, React
   }
   
   return count;
-}`
+}
+
+```
 
 ## EXPERIENCE
 
